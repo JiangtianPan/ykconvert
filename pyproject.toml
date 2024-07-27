@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ykconvert_YUKIN_PAN"
+name = "ykconvert"
 version = "0.0.1"
 authors = [
   { name="Yukin Pan", email="panjiangtian@whu.edu.cn" },
