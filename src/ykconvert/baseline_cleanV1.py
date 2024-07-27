@@ -1,29 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#!/Users/tianjiaoli/miniconda3/bin/python -m pip install lightgbm
-
-
-# In[1]:
-
-
-#!D:\Conda\miniconda38\envs\ltj_jupyter\python -m pip install scorecardpy
-
-
-# In[2]:
-
-
-#!which python
-
-
-# ### 加载包
-
-# In[48]:
-
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
